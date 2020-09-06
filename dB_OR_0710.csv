@@ -1,0 +1,65 @@
+,outcome,variable,ftest.p.value,p.adj.BH,odds.ratio,ftest.conf.int.1.,ftest.conf.int.2.,col
+1,most severe,aggressive.driving,0.0055,0.00825,20.0175,3.2867,79.358,increased risk
+2,most severe,distracted,1,1,0.9912,0.6721,1.4745,insignificant
+3,most severe,speeding,0,0,9.0143,5.5598,14.7334,increased risk
+4,most severe,driving.slowly,1,1,0.9681,0.049,5.5064,insignificant
+5,most severe,drowsiness,0.0892,0.121636364,2.4424,0.8151,6.4978,insignificant
+6,most severe,improper.distance.keeping,0.0036,0.006,25.3655,4.0936,105.922,increased risk
+7,most severe,neighbor.lane.conflict,0.0024,0.0045,12.2384,3.1799,37.7279,increased risk
+8,most severe,improper.turn,0.4174,0.52175,1.8771,0.0945,10.8945,insignificant
+9,most severe,inexperienced,0,0,45.5749,13.8656,136.4816,increased risk
+10,most severe,lane.changing.error,3.00E-04,0.00075,126.4001,15.5615,820.7156,increased risk
+11,most severe,no.driver.behavior,0,0,0.2457,0.1431,0.4161,reduced risk
+12,most severe,other.driver.behaviors,0.0015,0.003214286,6.4413,2.457,15.4943,increased risk
+13,most severe,right.of.way.error,0,0,2011.8419,291.5255,44099.1688,increased risk
+14,most severe,signal.sign.violation,0,0,15.9036,9.0738,26.6985,increased risk
+15,most severe,vehicle.signal.error,1,1,0.8274,0.1448,3.0084,insignificant
+16,police reportable,aggressive.driving,1,1,0,0,24.1777,insignificant
+17,police reportable,distracted,0.0012,0.00192,1.6407,1.2052,2.2214,increased risk
+18,police reportable,speeding,0,0,5.9191,3.8038,9.0674,increased risk
+19,police reportable,driving.slowly,1,1,0.5765,0.0293,3.2272,insignificant
+20,police reportable,drowsiness,0.0081,0.0108,2.942,1.3298,6.0405,increased risk
+21,police reportable,improper.backing,0,0,Inf,65.6661,Inf,increased risk
+22,police reportable,improper.distance.keeping,0.0098,0.012061538,15.0463,2.4408,61.9555,increased risk
+23,police reportable,neighbor.lane.conflict,0,0,17.2639,7.5179,37.9814,increased risk
+24,police reportable,improper.turn,4.00E-04,0.000711111,6.8981,2.9045,15.7767,increased risk
+25,police reportable,inexperienced,0,0,54.8388,22.3172,130.1983,increased risk
+26,police reportable,lane.changing.error,0,0,190.1994,46.2348,922.6212,increased risk
+27,police reportable,no.driver.behavior,0,0,0.1365,0.0792,0.2252,reduced risk
+28,police reportable,other.driver.behaviors,0.0028,0.004072727,4.5583,1.9324,10.1967,increased risk
+29,police reportable,right.of.way.error,0,0,1177.7567,170.175,25313.9009,increased risk
+30,police reportable,signal.sign.violation,0,0,5.6519,3.0729,10.1607,increased risk
+31,police reportable,vehicle.signal.error,0.8015,0.916,0.7405,0.1993,2.2731,insignificant
+32,minor crash,aggressive.driving,0,0,13.9772,6.0007,30.7756,increased risk
+33,minor crash,distracted,0.0198,0.0264,1.1908,1.0278,1.3768,increased risk
+34,minor crash,speeding,0,0,5.3221,4.2428,6.7005,increased risk
+35,minor crash,driving.slowly,0.5656,0.603306667,0.6778,0.2636,1.605,insignificant
+36,minor crash,drowsiness,1.00E-04,0.000177778,2.399,1.5937,3.5589,increased risk
+37,minor crash,improper.backing,0,0,Inf,732.5422,Inf,increased risk
+38,minor crash,improper.distance.keeping,0.1274,0.1568,3.5054,0.5717,14.2081,insignificant
+39,minor crash,neighbor.lane.conflict,0.4317,0.493371429,1.6778,0.4415,5.3034,insignificant
+40,minor crash,improper.turn,0,0,55.3081,42.3477,72.2848,increased risk
+41,minor crash,inexperienced,0,0,91.1923,52.633,159.809,increased risk
+42,minor crash,lane.changing.error,0.0125,0.018181818,17.5313,2.1736,112.8066,increased risk
+43,minor crash,no.driver.behavior,0,0,0.159,0.1257,0.2004,reduced risk
+44,minor crash,other.driver.behaviors,0,0,6.5161,4.4273,9.4417,increased risk
+45,minor crash,right.of.way.error,2.00E-04,0.00032,78.822,8.698,2041.4809,increased risk
+46,minor crash,signal.sign.violation,0,0,2.8898,1.8938,4.3071,increased risk
+47,minor crash,vehicle.signal.error,0.619,0.619,1.1108,0.6716,1.7815,insignificant
+48,near crash,aggressive.driving,0,0,35.5291,22.3084,58.8619,increased risk
+49,near crash,distracted,1.00E-04,0.000106667,1.1176,1.0578,1.1807,increased risk
+50,near crash,speeding,0,0,3.16,2.7982,3.5627,increased risk
+51,near crash,driving.slowly,0,0,0.2082,0.1196,0.3571,reduced risk
+52,near crash,drowsiness,0.1073,0.1073,0.8201,0.6422,1.0421,insignificant
+53,near crash,improper.backing,0,0,Inf,15.3428,Inf,increased risk
+54,near crash,improper.distance.keeping,0,0,42.7507,25.147,75.0944,increased risk
+55,near crash,neighbor.lane.conflict,0,0,15.3915,11.2814,21.1319,increased risk
+56,near crash,improper.turn,0,0,3.8725,2.9761,5.045,increased risk
+57,near crash,inexperienced,0,0,12.0199,7.0564,20.6601,increased risk
+58,near crash,lane.changing.error,0,0,241.5921,80.361,892.9107,increased risk
+59,near crash,no.driver.behavior,0,0,0.4283,0.4026,0.4555,reduced risk
+60,near crash,other.driver.behaviors,0,0,3.413,2.7259,4.2627,increased risk
+61,near crash,right.of.way.error,0,0,700.4104,120.8377,13895.4475,increased risk
+62,near crash,signal.sign.violation,0,0,3.0861,2.5867,3.6846,increased risk
+63,near crash,vehicle.signal.error,0,0,1.6364,1.3978,1.9145,increased risk
+64,most severe,improper.backing,NA,NA,NA,NA,NA,insignificant
